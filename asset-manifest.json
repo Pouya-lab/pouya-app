@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pouya-test/static/css/main.073c9b0a.css",
+    "main.js": "/pouya-test/static/js/main.e31d96ba.js",
+    "static/js/787.97a99c67.chunk.js": "/pouya-test/static/js/787.97a99c67.chunk.js",
+    "static/media/logo.svg": "/pouya-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pouya-test/index.html",
+    "main.073c9b0a.css.map": "/pouya-test/static/css/main.073c9b0a.css.map",
+    "main.e31d96ba.js.map": "/pouya-test/static/js/main.e31d96ba.js.map",
+    "787.97a99c67.chunk.js.map": "/pouya-test/static/js/787.97a99c67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e31d96ba.js"
+  ]
+}
